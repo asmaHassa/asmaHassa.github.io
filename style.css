@@ -135,8 +135,8 @@ section {
 
 }
 .other-block {
-  width: 400px; /* Adjust the width as needed */
-  height: 400px; /* Adjust the height as needed */
+  width: 400px; 
+  height: 400px; 
   padding: 20px;
   border: 1px solid #ccc;
   border-radius: 5px;
@@ -275,7 +275,7 @@ header.navbar-left {
 }
 
 .navigation-bar a:hover {
-  color: #b9c2cf; /* Change the color on hover */
+  color: #b9c2cf; 
 }
 
 header.navbar ul.navbar-nav li {
